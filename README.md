@@ -35,7 +35,7 @@ Proyek analisis perubahan tutupan lahan di Kota Interlaken, Swiss, menggunakan c
 ## 🔗 Tautan
 
 - **WebGIS (Live):** https://interlaken-webgis.vercel.app/
-- **Script GEE:** https://code.earthengine.google.com/1054cb3fdf25f496b3ab1d5a439ec83c
+- **Script GEE:** https://code.earthengine.google.com/a973923d548488ed179181facb59533a
 - **Laporan Lengkap (PDF):** _(tautan menyusul)_
 
 ---
